@@ -1,1 +1,1 @@
-# Statis code checker 
+# Status code checker 
